@@ -53,7 +53,7 @@ for(int i=1;i<=n;i++)
 }
 int factorial(){
 for(int i=1;i<=n;i++){
-    k=k*(i+1);
+    k=k*(i);
 }
 }
 
